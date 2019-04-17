@@ -5,11 +5,7 @@
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
 ## Operating the Prototype
-> Record a video (screen-recording is preferred) while you operating your prototype.
-> Present the ideal case on how to interact with the prototype from the beginning to the end.
-> Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
-
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+> Youtube Link: https://youtu.be/fNoG_gXKj4s
 
 ---
 
@@ -73,7 +69,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
  - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
- 
+
 #### OBSERVATION 2
 ![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
 
@@ -82,7 +78,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  - **Incidence**: 
  - **Reason**: 
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
- 
+
 #### OBSERVATION 3
 ![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
 
@@ -91,10 +87,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  - **Incidence**: 
  - **Reason**: 
  - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
+
  ... and so on ...
- 
- ---
+
+---
 
 ## Part B: Prototyping (again)
 > Next, you will need to modify your prototype 
