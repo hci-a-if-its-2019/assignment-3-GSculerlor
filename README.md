@@ -74,7 +74,7 @@ Question for the application test:
 
 ### 4. Feedback and Incidence Analysis
 #### OBSERVATION 1 - Homepage when not login
-![Prototype Screen 1](img/Login Screen With Popup.png)
+![Prototype Screen 1](img/Login%20Screen%20With%20Popup.png)
 
  - **Reference**: Participant **1** line **12**
  - **Feedback**: It's good when it provide popup instead of redirect user to another page
@@ -84,7 +84,7 @@ Question for the application test:
 
 #### OBSERVATION 2 - Homepage when already login
 
-![Prototype Screen 1](img/Home Screen.png)
+![Prototype Screen 1](img/Home%20Screen.png)
 
 - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
 - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
@@ -94,7 +94,7 @@ Question for the application test:
 
 #### OBSERVATION 3 - Beatmap Listing page
 
-![Prototype Screen 1](img/Beatmap Listing Screen.png)
+![Prototype Screen 1](img/Beatmap%20Listing%20Screen.png)
 
 - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
 - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
@@ -104,7 +104,7 @@ Question for the application test:
 
 #### OBSERVATION 4 - Beatmap Info page
 
-![Prototype Screen 1](img/Beatmap Info - Info.png)
+![Prototype Screen 1](img/Beatmap%20Info%20-%20Info.png)
 
 - **Reference**: Participant **1** line **20**
 - **Feedback**: It's easier to move one to other page with tab
@@ -114,7 +114,7 @@ Question for the application test:
 
 #### OBSERVATION 5 - Beatmap Modding page
 
-![Prototype Screen 1](img/Beatmap Info - Modding.png)
+![Prototype Screen 1](img/Beatmap%20Info%20-%20Modding.png)
 
 - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
 - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
@@ -124,7 +124,7 @@ Question for the application test:
 
 #### OBSERVATION 6 - Beatmap Replay page
 
-![Prototype Screen 1](img/Beatmap Info - Replay.png)
+![Prototype Screen 1](img/Beatmap%20Info%20-%20Replay.png)
 
 - **Reference**: Participant **1** line **22**
 - **Feedback**: The white background is not should be there
@@ -134,7 +134,7 @@ Question for the application test:
 
 #### OBSERVATION 7 - Beatmap Comments page
 
-![Prototype Screen 1](img/Beatmap Info - Comments.png)
+![Prototype Screen 1](img/Beatmap%20Info%20-%20Comments.png)
 
 - **Reference**: Participant **1** line **22**
 - **Feedback**: The white background is not should be there
