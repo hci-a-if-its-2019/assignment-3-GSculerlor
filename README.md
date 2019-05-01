@@ -165,20 +165,16 @@ Question for the application test:
 ---
 
 ## Part B: Prototyping (again)
-> Next, you will need to modify your prototype 
-> based on the resolutions you have suggested in `Feedback and Incidence Analysis`'s observations.
-
 ### Sketch
-> Draw a sketch of your prototype that is refined based according to the aforementioned observations on a paper.
-> Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
-> Please make sure the any texts on the sketch are readable.
+![Sketch](img/sketch.jpg)
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+![freehand](img/freehand_overview.png)
+
+(Actually this is the same design with previous task, but the only thing I edit is the color)
 
 ### Design Rationale
-> Please write a paragraph expressing what you have learned from the usability evaluation, 
-> and how it is reflected in your design.
+
+What the most noticeable from user says on CI is my background color pick on *Replay* and *Comment* section. Here user really surprised when I use white background instead of dark background when user experienced dark theme from the beginning. That's why on my latest design, I rid all of white theme left to dark theme by changing the background to something darker. 
 
 ### High-Fidelity Interactive-Prototype
-> Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
-> You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+Link: https://xd.adobe.com/view/80347b3d-e268-4604-68dc-f3790c2a01f7-f605/?fullscreen
