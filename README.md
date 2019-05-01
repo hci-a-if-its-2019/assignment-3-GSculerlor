@@ -67,10 +67,30 @@ Question for the application test:
 28. ….
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+
+1. You: Halo
+2. Participant: Halo
+3. You: Jadi disini kita bakal ngelakuin test terhadap sebuah mockup dari web osu, jadi kalau boleh tau sering buka atau main osu sebelumnya?
+4. Participant: Cuma tau sama pernah main aja sih, cuma nggak yang selalu gitu
+5. You: Oke oke, berarti jarang buka webnya juga ya
+6. Participant: Iya
+7. You: Oke, jadi disini kita bakal ngetes web osu yang sudah diubah, jadi mungkin perubahannya nggak kamu tau sih
+8. Participant: ho oke, ini ngapain berarti?
+9. You: Jadi tugasnya disini kamu dikasih sebuah task yang harus diselesaikan, kamu bakal disuruh login lalu buka salah satu beatmap lalu buka discussion dan replynya terakhir balik lagi, nah dalam prosesnya silahkan ceritakan apa saja yang kamu lihat dan kamu mungkin rasa itu sesuai atau tidak sesuai disitu. Paham nggak?
+10. Participant: Nggak terlalu sih, tapi bisa lah kayaknya
+11. You: Oke mulai ya
+12. Participant: Oke, ini halaman pertama, ini ada tulisan login, oh udah langsung diisiin ya, oke langsung masuk
+13. Perticipant: Ini masuk homepage-nya kayaknya, ada tombol beatmaps diatas sama ada beat maps di kanan. Kayaknya mencet yang diatas
+14. Participant: Oke sekarang di homepage-nya beatmap kayaknya, banyak sekali beatmapnya, ini yang dipilih yang mana?
+15. You: Yang bisa dipencet cuma sebiji sih hehe, yang pertama
+16. Participant: Oke-oke, ini sekarang masuk ke beatmap info namanya, gaada yang aneh, semua ada disini yang berhubungan sama beatmapnya, terus sekarang ke diskusi, ini ada tombol diskusi.
+17. Participant: Oke sekarang setelah ke diskusi, ke replay sama comment, satu satu dari replay. Lho ini emang putih? 
+18. You: Iyes
+19. Participant: hoo, aneh sih sebenernya dari gelap-gelap tiba tiba putih, lainnya udah normal aja sih, lalu ke comment. Oh ini putih juga ya, sama sih berarti sama yang satunya tadi
+20. Participant: Oke ini terus balik kan ya abis ini
+21. You: Iya, balik ke home atau beatmap info
+22. Participant: Oke balik ke beatmap info, sip ke home
+23. You: Sip mantap
 
 ### 4. Feedback and Incidence Analysis
 #### OBSERVATION 1 - Homepage when not login
@@ -96,37 +116,37 @@ Question for the application test:
 
 ![Prototype Screen 1](img/Beatmap%20Listing%20Screen.png)
 
-- **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
-- **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
-- **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
-- **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
-- **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+- **Reference**: -
+- **Feedback**: -
+- **Incidence**: -
+- **Reason**: -
+- **Resolution**: -
 
 #### OBSERVATION 4 - Beatmap Info page
 
 ![Prototype Screen 1](img/Beatmap%20Info%20-%20Info.png)
 
-- **Reference**: Participant **1** line **20**
+- **Reference**: Participant **1** line **20**, participant **2** line **16**
 - **Feedback**: It's easier to move one to other page with tab
-- **Incidence**: Not really an incidence, but user said that modding text should be discussion to make user not misunderstanding
-- **Reason**: Cause it can lead novice user who don't know much about osu terminology to wrong direction
-- **Resolution**: Change the Modding title to Discussion
+- **Incidence**: Not really an incidence, but user said that modding text should be discussion to make user not misunderstanding, user click *Diskusi* button, not the modding tab
+- **Reason**: Cause it can lead novice user who don't know much about osu terminology to wrong direction, looks like the *diskusi* button too obvious and have redundant behavior with tab
+- **Resolution**: Change the Modding title to Discussion, remove the button
 
 #### OBSERVATION 5 - Beatmap Modding page
 
 ![Prototype Screen 1](img/Beatmap%20Info%20-%20Modding.png)
 
-- **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
-- **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
-- **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
-- **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
-- **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+- **Reference**: -
+- **Feedback**: -
+- **Incidence**: -
+- **Reason**: -
+- **Resolution**: -
 
 #### OBSERVATION 6 - Beatmap Replay page
 
 ![Prototype Screen 1](img/Beatmap%20Info%20-%20Replay.png)
 
-- **Reference**: Participant **1** line **22**
+- **Reference**: Participant **1** line **22**, participant **2** line 19
 - **Feedback**: The white background is not should be there
 - **Incidence**: It make no sense from dark themed web then suddenly user encounter white screen.
 - **Reason**: Inconsistency color picking for background
@@ -136,7 +156,7 @@ Question for the application test:
 
 ![Prototype Screen 1](img/Beatmap%20Info%20-%20Comments.png)
 
-- **Reference**: Participant **1** line **22**
+- **Reference**: Participant **1** line **22**, participant **2** line 19
 - **Feedback**: The white background is not should be there
 - **Incidence**: It make no sense from dark themed web then suddenly user encounter white screen.
 - **Reason**: Inconsistency color picking for background
